@@ -1,0 +1,21 @@
+.feedback {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttonSet {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.statSet {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.statSet p {
+    margin: 0;
+}
